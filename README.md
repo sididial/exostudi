@@ -1,0 +1,2 @@
+# exostudi
+exercice studi
